@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bcstories",
+    "name": "BC Stories",
+    "blurb": "VR in the Museum",
+    "text": "adfsl;jkadsfkadfskjl  fasdkjjklsfj fasdkjli pqkfd kjfsldkjj",
+    "img": "/img/plaidVR.png",
+    "date": "November 2016",
+    "client": "Royal BC Museum",
+    "category": "Virtual Reality",
+    "tags": ["VR", "AR"],
+    "display": true
+  },
+  {
+    "id": "algaeexplorer",
+    "name": "Algae Explorer",
+    "blurb": "Live monitoring of algae blooms",
+    "text": "adfsl;jkadsfkadfskjl  fasdkjjklsfj fasdkjli pqkfd kjfsldkjj",
+    "img": "/img/algae_explorer.jpg",
+    "date": "November 2016",
+    "client": "UVic Geography",
+    "category": "Deep Learning",
+    "tags": ["Ocean Science", "Spatial Data"],
+    "display": true
+  },
+  {
+    "id": "eocfuture",
+    "name": "EOC of the Future",
+    "blurb": "Reimagining Emergency Response",
+    "text": "adfsl;jkadsfkadfskjl  fasdkjjklsfj fasdkjli pqkfd kjfsldkjj",
+    "img": "/img/emergency.jpg",
+    "date": "November 2016",
+    "client": "Emergency Management BC",
+    "category": "Virtual Reality",
+    "tags": ["Ocean Science", "Spatial Data"],
+    "display": true
+  },
+  {
+    "id": "testkitchen",
+    "name": "Test Kitchen",
+    "blurb": "Urthecast Can See You",
+    "text": "adfsl;jkadsfkadfskjl  fasdkjjklsfj fasdkjli pqkfd kjfsldkjj",
+    "img": "/img/testkitchen.jpg",
+    "date": "November 2016",
+    "client": "Urthecast",
+    "category": "Virtual Reality",
+    "tags": ["Ocean Science", "Spatial Data"],
+    "display": true
+  },
+  {
+    "id": "vrtsunami",
+    "name": "VR Tsunami",
+    "blurb": "Natural Disasters in the Classroom",
+    "text": "adfsl;jkadsfkadfskjl  fasdkjjklsfj fasdkjli pqkfd kjfsldkjj",
+    "img": "/img/tsunami.jpg",
+    "date": "November 2016",
+    "client": "Emergency Management BC",
+    "category": "Virtual Reality",
+    "tags": ["Ocean Science", "Spatial Data"],
+    "display": true
+  },
+  {
+    "id": "urbanplan",
+    "name": "Urban Planning",
+    "blurb": "What the hell was this",
+    "text": "adfsl;jkadsfkadfskjl  fasdkjjklsfj fasdkjli pqkfd kjfsldkjj",
+    "img": "/img/urbanplanning.jpg",
+    "date": "November 2016",
+    "client": "Emergency Management BC",
+    "category": "Virtual Reality",
+    "tags": ["Ocean Science", "Spatial Data"],
+    "display": true
+  },
+  {
+    "id": "earthdata",
+    "name": "Earth Data Store",
+    "blurb": "All Your Data Is Mine",
+    "text": "adfsl;jkadsfkadfskjl  fasdkjjklsfj fasdkjli pqkfd kjfsldkjj",
+    "img": "/img/earthdata.jpg",
+    "date": "November 2016",
+    "client": "Emergency Management BC",
+    "category": "Virtual Reality",
+    "tags": ["Ocean Science", "Spatial Data"],
+    "display": true
+  },
+  {
+    "id": "coastguard",
+    "name": "Coast Guard",
+    "blurb": "Toot toot",
+    "text": "adfsl;jkadsfkadfskjl  fasdkjjklsfj fasdkjli pqkfd kjfsldkjj",
+    "img": "/img/coastguard.jpg",
+    "date": "November 2016",
+    "client": "Emergency Management BC",
+    "category": "Virtual Reality",
+    "tags": ["Ocean Science", "Spatial Data"],
+    "display": true
+  },
+  {
+    "id": "oceansapp",
+    "name": "Oceans App",
+    "blurb": "Temporodynamic Spatial Sensor Network",
+    "text": "adfsl;jkadsfkadfskjl  fasdkjjklsfj fasdkjli pqkfd kjfsldkjj",
+    "img": "/img/oceansapp.jpg",
+    "date": "November 2016",
+    "client": "Emergency Management BC",
+    "category": "Virtual Reality",
+    "tags": ["Ocean Science", "Spatial Data"],
+    "display": true
+  }
+]
