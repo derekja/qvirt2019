@@ -1,9 +1,10 @@
 import React, { Component } from "react";
+import Col from "react-bootstrap/Col";
 
 class Section extends Component {
   render() {
     return (
-      <div className="col-md-4">
+      <Col md="4">
         <span className="fa-stack fa-4x">
           <i className="fas fa-circle fa-stack-2x text-primary"></i>
           <i
@@ -12,7 +13,7 @@ class Section extends Component {
         </span>
         <h4 className="tech-heading">{this.props.title}</h4>
         <p className="text-muted">{this.props.blurb}</p>
-      </div>
+      </Col>
     );
   }
 }

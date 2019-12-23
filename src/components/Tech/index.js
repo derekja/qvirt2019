@@ -1,20 +1,23 @@
 import React, { Component } from "react";
 import Section from "./Section";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+import Container from "react-bootstrap/Container";
 
 class Tech extends Component {
   render() {
     return (
       <section className="page-section" id="tech">
-        <div className="container">
-          <div className="row">
-            <div className="col-lg-12 text-center">
+        <Container>
+          <Row>
+            <Col lg="12" className="text-center">
               <h2 className="section-heading text-uppercase">Technology</h2>
               <h3 className="section-subheading text-muted">
                 Lorem ipsum dolor sit amet consectetur.
               </h3>
-            </div>
-          </div>
-          <div className="row text-center">
+            </Col>
+          </Row>
+          <Row className="text-center">
             <Section
               title="Engaging"
               blurb="Unity game engine on the client enables head and hand tracking, presentation on multiple client platforms, and all the richness of a gaming application."
@@ -30,8 +33,8 @@ class Tech extends Component {
               blurb="Deep learning feature extraction, geospatial satellite anaytics, and predictive modeling, all in the cloud."
               icon="fa-cloud"
             />
-          </div>
-        </div>
+          </Row>
+        </Container>
       </section>
     );
   }

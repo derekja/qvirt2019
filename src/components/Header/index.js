@@ -1,10 +1,11 @@
 import React from "react";
+import Container from "react-bootstrap/Container";
 
 const Header = ({ children }) => (
   <header className="masthead" id="heeed">
-    <div className="container">
+    <Container>
       <div className="header-text">{children}</div>
-    </div>
+    </Container>
   </header>
 );
 

@@ -1,21 +1,24 @@
 import React, { Component } from "react";
 import Item from "./Item";
 import projects from "../Projects/projects.json";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+import Container from "react-bootstrap/Container";
 
 class Projects extends Component {
   render() {
     return (
       <section className="bg-light page-section" id="projects">
-        <div className="container">
-          <div className="row">
-            <div className="col-lg-12 text-center">
+        <Container>
+          <Row>
+            <Col lg="12" className="text-center">
               <h2 className="section-heading text-uppercase">Projects</h2>
               <h3 className="section-subheading text-muted">
                 Lorem ipsum dolor sit amet consectetur.
               </h3>
-            </div>
-          </div>
-          <div className="row">
+            </Col>
+          </Row>
+          <Row>
             {projects
               .filter(project => {
                 return project.display;
@@ -29,8 +32,8 @@ class Projects extends Component {
                   />
                 );
               })}
-          </div>
-        </div>
+          </Row>
+        </Container>
       </section>
     );
   }

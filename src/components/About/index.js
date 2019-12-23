@@ -1,7 +1,12 @@
 import React, { Component } from "react";
 import Navigation from "../Navigation";
 import Header from "../Header";
+import Footer from "../Footer";
 import Timeline from "./Timeline";
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+import Container from "react-bootstrap/Container";
+import Contact from "../Contact";
 
 class About extends Component {
   render() {
@@ -12,22 +17,24 @@ class About extends Component {
           <div className="heading text-uppercase">Derek's Resume Goes Here</div>
         </Header>
         <section className="page-section" id="about">
-          <div className="container">
-            <div className="row">
-              <div className="col-lg-12 text-center">
+          <Container>
+            <Row>
+              <Col lg="12" className="text-center">
                 <h2 className="section-heading text-uppercase">About</h2>
                 <h3 className="section-subheading text-muted">
                   Lorem ipsum dolor sit amet consectetur.
                 </h3>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-lg-12">
+              </Col>
+            </Row>
+            <Row>
+              <Col lg="12">
                 <Timeline />
-              </div>
-            </div>
-          </div>
+              </Col>
+            </Row>
+          </Container>
         </section>
+        <Contact />
+        <Footer />
       </div>
     );
   }

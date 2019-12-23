@@ -20,11 +20,6 @@ const ProjectModal = props => (
         Close Project
       </Button>
     </Modal.Body>
-    {/* <ModalFooter>
-      <Button color="secondary" onClick={props.toggle}>
-        View Map
-      </Button>{" "}
-    </ModalFooter> */}
   </Modal>
 );
 

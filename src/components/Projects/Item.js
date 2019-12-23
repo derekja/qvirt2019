@@ -1,7 +1,8 @@
 import React from "react";
+import Col from "react-bootstrap/Col";
 
 const Item = props => (
-  <div className="col-md-4 col-sm-6 projects-item">
+  <Col md="4" sm="6" className="projects-item">
     <a
       className="projects-link"
       data-toggle="modal"
@@ -19,7 +20,7 @@ const Item = props => (
       <h4>{props.name}</h4>
       <p className="text-muted">{props.blurb}</p>
     </div>
-  </div>
+  </Col>
 );
 
 export default Item;
