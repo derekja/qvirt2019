@@ -5,6 +5,8 @@ import MainHeader from "./components/Header/MainHeader";
 import Tech from "./components/Tech";
 import Projects from "./components/Projects";
 import Modals from "./components/Modals";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 import "./style/App.css";
 import "./style/fontawesome-free/css/all.min.css";
 
@@ -42,6 +44,8 @@ class App extends Component {
         </Header>
         <Tech />
         <Projects showModal={this.showModal} />
+        <Contact />
+        <Footer />
       </div>
     );
   }
