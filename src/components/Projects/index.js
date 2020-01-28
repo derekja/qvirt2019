@@ -14,7 +14,7 @@ class Projects extends Component {
             <Col lg="12" className="text-center">
               <h2 className="section-heading text-uppercase">Projects</h2>
               <h3 className="section-subheading text-muted">
-                Lorem ipsum dolor sit amet consectetur.
+                A few of the recent projects QVirt has been involved in.
               </h3>
             </Col>
           </Row>
