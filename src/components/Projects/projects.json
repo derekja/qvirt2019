@@ -4,7 +4,7 @@
     "name": "P3 Aqua",
     "blurb": "Preserve, Predict and protect our Oceans",
     "text": "using real-time satellite analytics, predictive models, and realistic visualizations the P3 Aqua application allows government planners, emergency responders, and industry to collaborate over environmental scenarios.",
-    "img": "/img/oceansapp.jpg",
+    "img": "/img/kelpforest.jpg",
     "date": "Ongoing",
     "client": "an Earth Data Store Application",
     "category": "GIS, cloud platform, Azure",
@@ -17,7 +17,7 @@
     "name": "Algae Explorer",
     "blurb": "Live monitoring of algae blooms",
     "text": "using data from the European Space Agency Sentinel-3 satellite, chlorophyll levels are used to approximate algae concentrations in our coastal waters. This project is continuing with predictive models that were started as part of a Microsoft AI for Earth award.",
-    "img": "/img/algae_explorer.jpg",
+    "img": "/img/algaebloom.jpg",
     "date": "November 2019",
     "client": "UVic Geography, MEOPAR",
     "category": "GIS, Azure, Deep Learning",
@@ -30,7 +30,7 @@
     "name": "Vic Stories",
     "blurb": "Interactive Fiction for the Victoria Film Festival",
     "text": "The film festival delights and engages audiences every year, and we're trying to turn consumers of stories into creators by using the Ink interactive fiction environment to allow people to write stories about the films that inspire them.",
-    "img": "/img/stories.jpg",
+    "img": "/img/flyingbook.jpg",
     "date": "February 2020",
     "client": "Victoria Film Festival",
     "category": "Augmented Reality",
@@ -82,7 +82,7 @@
     "name": "NalPal",
     "blurb": "Peer-to-peer opiate crisis intervention",
     "text": "In an opiate overdose seconds mean the difference between life and death. Many people now carry naloxone kits which can reverse the acute effects of an overdose, but if you see an overdose and don't have a kit how do you find someone? Nalpal was a project to attempt to fill that gap.",
-    "img": "/img/earthdata.jpg",
+    "img": "/img/naloxone.jpg",
     "date": "March 2018",
     "client": "Aids Vancouver Island",
     "category": "emergency response",
@@ -105,10 +105,10 @@
   },
   {
     "id": "testkitchen",
-    "name": "Algrithm Test Kitchen",
+    "name": "Algorithm Test Kitchen",
     "blurb": "Cloud-based geospatial development environment",
     "text": "QVirt worked with a master's student and developers at UrtheCast to create an application on Amazon Web Services that allowed GIS developers to write python scripts that took advantage of containerization and a map-reduce algorithm to execute their algorithms on many compute nodes on AWS to allow fast and seamless collaboration for algorithm development.",
-    "img": "/img/testkitchen.jpg",
+    "img": "/img/satellite.jpg",
     "date": "August 2016",
     "client": "UrtheCast",
     "category": "geospatial data",
@@ -116,5 +116,4 @@
     "tags": ["Cloud architecture", "Spatial Data"],
     "display": true
   }
-
 ]
