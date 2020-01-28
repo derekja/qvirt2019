@@ -19,6 +19,7 @@ const Item = props => (
     <div className="projects-caption">
       <h4>{props.name}</h4>
       <p className="text-muted">{props.blurb}</p>
+
     </div>
   </Col>
 );

@@ -2,6 +2,7 @@ import React from "react";
 import Modal from "react-bootstrap/Modal";
 import Button from "react-bootstrap/Button";
 
+
 const ProjectModal = props => (
   <Modal show={props.show} onHide={props.close} className={props.className}>
     <Modal.Header>{props.title}</Modal.Header>
@@ -14,6 +15,7 @@ const ProjectModal = props => (
         <li>Date: {props.date}</li>
         <li>Client: {props.client}</li>
         <li>Category: {props.category}</li>
+        <li><a target="_blank" href={props.link}>more info</a></li>
       </ul>
       <Button data-dismiss="modal" onClick={props.close}>
         <i className="fas fa-times"></i>

@@ -12,7 +12,7 @@ const Contact = props => {
           <Col lg="12" className="text-center">
             <h2 className="section-heading text-uppercase">Contact Us</h2>
             <h3 className="section-subheading text-muted">
-              Lorem ipsum dolor sit amet consectetur.
+              Please send email to info@qvirt.com.
             </h3>
           </Col>
         </Row>

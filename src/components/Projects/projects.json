@@ -39,6 +39,7 @@
     "id": "testkitchen",
     "name": "Test Kitchen",
     "blurb": "Urthecast Can See You",
+    "link": "https://youtu.be/0i0Jp6Uu_7g",
     "text": "adfsl;jkadsfkadfskjl  fasdkjjklsfj fasdkjli pqkfd kjfsldkjj",
     "img": "/img/testkitchen.jpg",
     "date": "November 2016",
@@ -50,8 +51,8 @@
   {
     "id": "vrtsunami",
     "name": "VR Tsunami",
-    "blurb": "Natural Disasters in the Classroom",
-    "text": "adfsl;jkadsfkadfskjl  fasdkjjklsfj fasdkjli pqkfd kjfsldkjj",
+    "blurb": "Natural Disasters in the Classroom <a target='_blank' href='https://youtu.be/0i0Jp6Uu_7g'> more info</a>",
+    "text": "test <a target=\"_blank\" href='https://youtu.be/0i0Jp6Uu_7g'>link</a>",
     "img": "/img/tsunami.jpg",
     "date": "November 2016",
     "client": "Emergency Management BC",

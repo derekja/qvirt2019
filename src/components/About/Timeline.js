@@ -3,31 +3,31 @@ import TimeItem from "./TimeItem";
 const resumeItems = [
   {
     img: "img/about/1.jpg",
-    dates: "2004",
-    title: "A Bear Was Born",
+    dates: "Pre-history",
+    title: "A Bear Was Born and educated",
     detail:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      "Derek grew up in Hamilton, Ontario. He was a three-time National Junior champion in freestyle wrestling and graduated from Rice University in Houston, Tx. Along the way he worked at MD Anderson Cancer Center in biostatistics and at Compaq."
   },
   {
-    img: "img/about/1.jpg",
-    dates: "2005",
-    title: "A Bear Had Some Cheese For The First Time",
+    img: "img/about/2.jpg",
+    dates: "1995-2007",
+    title: "Microsoft",
     detail:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      "Starting in a usability/human factors role, Derek quickly moved in to program management on the Windows team and shipped system administration code on Windows 2000 server that remains in the product to this day. Several years leading the speech recognition team in Microsoft Research followed, and then back to the Windows team to build accessibility tools."
   },
   {
-    img: "img/about/1.jpg",
-    dates: "2005",
-    title: "A Bear Was Born Again",
+    img: "img/about/3.jpg",
+    dates: "2008",
+    title: "University of Victoria",
     detail:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      "Derek did his masters degree in Computer Science on automated meeting recordings and his PhD on low-cost electroencephalography devices. Both involved data analytics and visualizations on messy, noisy data sources. During this time he also founded the Victoria Makerspace, competed and mentored synthetic biology iGEM teams, and opened Canada's first community biology lab."
   },
   {
-    img: "img/about/1.jpg",
-    dates: "2009-2011",
-    title: "A Bear Happened Upon A Map",
+    img: "img/about/4.jpg",
+    dates: "2015",
+    title: "QVirt",
     detail:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      "Derek began working with Yvonne Coady at UVic as her research manager and steered the team towards augmented and virtual reality applications, satellite and GIS applications, and machine learning. Many of the projects emerging from this period are described on the projects page."
   }
 ];
 

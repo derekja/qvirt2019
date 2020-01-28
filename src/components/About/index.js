@@ -14,7 +14,7 @@ class About extends Component {
       <div>
         <Navigation />
         <Header>
-          <div className="heading text-uppercase">Derek's Resume Goes Here</div>
+          <div className="heading text-uppercase">Derek's Timeline</div>
         </Header>
         <section className="page-section" id="about">
           <Container>
@@ -22,7 +22,7 @@ class About extends Component {
               <Col lg="12" className="text-center">
                 <h2 className="section-heading text-uppercase">About</h2>
                 <h3 className="section-subheading text-muted">
-                  Lorem ipsum dolor sit amet consectetur.
+                  A bit of history about the QVirt founder
                 </h3>
               </Col>
             </Row>

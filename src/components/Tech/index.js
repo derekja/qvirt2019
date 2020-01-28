@@ -13,7 +13,7 @@ class Tech extends Component {
             <Col lg="12" className="text-center">
               <h2 className="section-heading text-uppercase">Technology</h2>
               <h3 className="section-subheading text-muted">
-                Lorem ipsum dolor sit amet consectetur.
+                Powerful technologies on the client and server.
               </h3>
             </Col>
           </Row>

@@ -34,6 +34,7 @@ const ContactForm = props => {
               type="text"
               placeholder="Your Name *"
               required
+              disabled
               //data-validation-required-message="Please enter your name."
             />
             <Form.Control.Feedback type="invalid">
@@ -47,6 +48,7 @@ const ContactForm = props => {
               placeholder="Your Email *"
               required
               data-validation-required-message="Please enter your email."
+              disabled
             />
             <Form.Control.Feedback type="invalid">
               Please enter your email.
@@ -60,6 +62,7 @@ const ContactForm = props => {
               id="message"
               placeholder="Your Message *"
               required
+              disabled
             />
           </Form.Group>
         </Col>
@@ -70,6 +73,7 @@ const ContactForm = props => {
             id="sendMessageButton"
             className="btn-xl text-uppercase"
             type="submit"
+            disabled
           >
             Send Message
           </Button>
