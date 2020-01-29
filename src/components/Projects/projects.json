@@ -2,7 +2,7 @@
   {
     "id": "oceansapp",
     "name": "P3 Aqua",
-    "blurb": "Preserve, Predict and protect our Oceans",
+    "blurb": "Preserve, Predict and Protect our Oceans",
     "text": "using real-time satellite analytics, predictive models, and realistic visualizations the P3 Aqua application allows government planners, emergency responders, and industry to collaborate over environmental scenarios.",
     "img": "/img/kelpforest.jpg",
     "date": "Ongoing",
@@ -80,7 +80,7 @@
   {
     "id": "nalpal",
     "name": "NalPal",
-    "blurb": "Peer-to-peer opiate crisis intervention",
+    "blurb": "Peer-to-peer intervention for opiate overdose",
     "text": "In an opiate overdose seconds mean the difference between life and death. Many people now carry naloxone kits which can reverse the acute effects of an overdose, but if you see an overdose and don't have a kit how do you find someone? Nalpal was a project to attempt to fill that gap.",
     "img": "/img/naloxone.jpg",
     "date": "March 2018",
