@@ -2,9 +2,10 @@ import React, { Component } from "react";
 import Navigation from "./components/Navigation";
 import Header from "./components/Header";
 import MainHeader from "./components/Header/MainHeader";
-import Tech from "./components/Tech";
-import Projects from "./components/Projects";
+import Advisory from "./components/Advisory";
+import Members from "./components/Members";
 import Modals from "./components/Modals";
+import Staff from "./components/Staff";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import "./style/App.css";
@@ -14,21 +15,25 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      curModal: ""
+      curModal: "",
     };
   }
+
+  // pass through methods so state management
+  // remains at app level
   closeModal = () => {
     console.log("eviscerate");
     this.setState({
-      curModal: ""
+      curModal: "",
     });
   };
-  showModal = id => {
+  showModal = (id) => {
     console.log(id);
     this.setState({
-      curModal: id
+      curModal: id,
     });
   };
+
   render() {
     return (
       <div className="App">
@@ -42,8 +47,9 @@ class App extends Component {
         <Header>
           <MainHeader />
         </Header>
-        <Tech />
-        <Projects showModal={this.showModal} />
+        <Advisory />
+        <Members showModal={this.showModal} />
+        <Staff />
         <Contact />
         <Footer />
       </div>

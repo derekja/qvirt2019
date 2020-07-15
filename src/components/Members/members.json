@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "Hawkeye Pierce",
+    "blurb": "Alan Alda",
+    "text": "Captain Benjamin Franklin 'Hawkeye' Pierce (Jr. in the novel) was played by Donald Sutherland in the film and by Alan Alda on television. Between long sessions of treating wounded patients, he is found making wisecracks, drinking heavily, carousing, womanizing, and pulling pranks on the people around him, especially Frank Burns and 'Hot Lips' Houlihan. In the novel, he serves as a moral center and author's alter ego, chiding Trapper John for calling Major Houlihan 'Hot Lips', which he never does himself. Although just one of an ensemble of characters in author Richard Hooker's MASH: A Novel About Three Army Doctors, in the television series Hawkeye became the center of the MASH unit's medical activity. In the television series, he becomes the Chief Surgeon of the unit early in the first season.",
+    "img": "/img/members/placeholder.png",
+    "link": "https://en.wikipedia.org/wiki/List_of_M*A*S*H_characters#Hawkeye_Pierce",
+    "display": true
+  },
+  {
+    "id": "2",
+    "name": "Trapper John",
+    "blurb": "Wayne Rogers",
+    "text": "Captain John Francis Xavier McIntyre appears in the novels, the film (played by Elliott Gould), the M*A*S*H TV series (Wayne Rogers), and the Trapper John, M.D. series (Pernell Roberts). He is one of the main characters in the M*A*S*H TV series during the first three seasons, and the central character of the latter series. His nickname comes from an incident in which he was caught having sex with a woman in the lavatory aboard a Boston & Maine Railway train: she claimed in her defense that 'he trapped me!'.",
+    "img": "/img/members/placeholder.png",
+    "link": "https://en.wikipedia.org/wiki/Trapper_John,_M.D.",
+    "display": true
+  },
+  {
+    "id": "3",
+    "name": "B.J. Hunnicutt",
+    "blurb": "Mike Farrell",
+    "text": "Captain B.J. Hunnicutt is played by Mike Farrell in the TV show. He replaced Trapper John, both in his position within the unit and as an ally of Hawkeye Pierce and a foil of Frank Burns, appearing in all but one episode of the rest of the series. Although he glibly answers that the initials 'B. J.' stand for 'anything you want', he tells Hawkeye that the initials are derived from the names of his parents, Bea and Jay. ",
+    "img": "/img/members/placeholder.png",
+    "link": "https://en.wikipedia.org/wiki/Mike_Farrell",
+    "display": true
+  },
+  {
+    "id": "4",
+    "name": "Henry Blake",
+    "blurb": "Tabletop applications for geospatial collaboration",
+    "text": "Lieutenant Colonel Henry Braymore Blake is introduced in the 1968 novel M*A*S*H and is also a character in the film (played by Roger Bowen) and television series (played by McLean Stevenson). He is a surgeon and the original commanding officer of the 4077th MASH unit. He is beloved for his down-to-earth, laid-back manner by many under his command, especially Hawkeye and Trapper John (with whom he drinks, flouts regulations, and chases women). However, he is scorned for it by those who prefer strict military discipline, such as Frank Burns and Margaret 'Hot Lips' Houlihan.",
+    "img": "/img/members/placeholder.png",
+    "link": "https://mash.fandom.com/wiki/Lt._Colonel_Henry_Blake",
+    "display": true
+  },
+  {
+    "id": "5",
+    "name": "VR Tsunami",
+    "blurb": "Natural Disasters in the Classroom",
+    "text": "In this project, presented at Siggraph 2019 and used in classrooms across BC, we developed a series of interactive games and simulations to teach middle school students about ocean science and tsunamis. Using accurate Digital Elevation Models and hydrodynamic simulations we created a Unity game to explore the impact of various near-field earthquake scenarios.",
+    "img": "/img/members/placeholder.png",
+    "link": "https://drive.google.com/open?id=1d0DxaL-SKg7PsTvaNABOg6jOANPWeX_8",
+    "display": false
+  },
+  {
+    "id": "6",
+    "name": "EOC of the Future",
+    "blurb": "Reimagining Emergency Response: a vision demo for the UN",
+    "text": "The UN Office of Outer Space Affairs had a session on satellite analytics for emergency response at which we were asked to prepare a vision demo of how augmented reality and collaborative analytics could re-imagine the process of emergency response. The more info link below will allow you to see that demo.",
+    "img": "/img/members/placeholder.png",
+    "link": "https://youtu.be/2Q3vNzNa95g",
+    "display": false
+  },
+  {
+    "id": "7",
+    "name": "NalPal",
+    "blurb": "Peer-to-peer intervention for opiate overdose",
+    "text": "In an opiate overdose seconds mean the difference between life and death. Many people now carry naloxone kits which can reverse the acute effects of an overdose, but if you see an overdose and don't have a kit how do you find someone? Nalpal was a project to attempt to fill that gap.",
+    "img": "/img/members/placeholder.png",
+    "link": "https://www.cbc.ca/news/canada/british-columbia/nal-pal-overdose-app-1.4573630",
+    "display": false
+  },
+  {
+    "id": "8",
+    "name": "BC Stories",
+    "blurb": "VR in the Museum",
+    "text": "The Royal BC Museum worked with us to create interactive Unity games in Virtual Reality that explored the museum collections. In collaboration with the Centre for Digital Media in Vancouver and the Technical University of Berlin, QVirt and students at the University of Victoria created two narratives about the BC gold rush to go alongside an exhibit at the museum.",
+    "img": "/img/members/placeholder.png",
+    "link": "https://bcstories.ca/goldrush.html",
+    "display": false
+  },
+  {
+    "id": "9",
+    "name": "Algorithm Test Kitchen",
+    "blurb": "Cloud-based geospatial development environment",
+    "text": "QVirt worked with a master's student and developers at UrtheCast to create an application on Amazon Web Services that allowed GIS developers to write python scripts that took advantage of containerization and a map-reduce algorithm to execute their algorithms on many compute nodes on AWS to allow fast and seamless collaboration for algorithm development.",
+    "img": "/img/members/placeholder.png",
+    "link": "https://dspace.library.uvic.ca//handle/1828/10802",
+    "display": false
+  }
+]

@@ -2,12 +2,13 @@ import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import NotFound from "./components/NotFound";
 import About from "./components/About";
+import Education from "./components/Education";
 import App from "./App";
 
 const Router = () => (
   <BrowserRouter>
     <Switch>
-      <Route exact path="/founder" component={About} />
+      <Route exact path="/education" component={Education} />
       <Route exact path="/" component={App} />
       <Route component={NotFound} />
     </Switch>
