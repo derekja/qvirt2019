@@ -1,21 +1,25 @@
 import React, { Component } from "react";
-import MemberModal from "./MemberModal";
-import members from "../Members/members.json";
+import ProjectModal from "./ProjectModal";
+import projects from "../Projects/projects.json";
 
-const modals = [...members];
-const Modals = (props) => (
-  <div id="modals">
-    {modals.map((value, index) => {
-      return (
-        <MemberModal
-          key={index}
-          {...value}
-          {...props}
-          show={props.curModal === value.id}
-        />
-      );
-    })}
-  </div>
-);
+class Modals extends Component {
+  render() {
+    const modals = [...projects];
+    return (
+      <div id="modals">
+        {modals.map((value, index) => {
+          return (
+            <ProjectModal
+              key={index}
+              {...value}
+              {...this.props}
+              show={this.props.curModal === value.id}
+            />
+          );
+        })}
+      </div>
+    );
+  }
+}
 
 export default Modals;
