@@ -21,7 +21,7 @@
     "date": "November 2019",
     "client": "UVic Geography, MEOPAR",
     "category": "GIS, Azure, Deep Learning",
-    "link": "http://algaeexplorer.ca/",
+    "link": "http://qvirt.com/p3aqua",
     "tags": ["Ocean Science", "Spatial Data"],
     "display": true
   },
@@ -34,7 +34,6 @@
     "date": "February 2020",
     "client": "Victoria Film Festival",
     "category": "Augmented Reality",
-    "link": "https://vicstories.ca/",
     "tags": ["Augmented Reality", "Storytelling"],
     "display": true
   },
